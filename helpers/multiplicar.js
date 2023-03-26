@@ -30,5 +30,7 @@ const crearArchivo = async(base = 5, listar= false, hasta = 10) =>{
     }
 } 
 
-
+module.exports = {
+    crearArchivo
+}
 

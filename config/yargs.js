@@ -19,7 +19,7 @@ const argv = require ("yargs")
             describe:"numero limite"
         })
         .check((argv, options) =>{
-            if(isNaN(argv.base) ) {
+            if(isNaN(argv.b) ) {
             throw "la base tiene que ser un numero"
             }
              return true
