@@ -1,6 +1,3 @@
-#notas:
-este es mi primer programa de node
-
 ```
 options:
       --help     Muestra ayuda                                        [booleano]
